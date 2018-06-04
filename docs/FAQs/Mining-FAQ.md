@@ -17,55 +17,55 @@ A: One of our discord members set up a [calculator](http://bulwarkcalc.online/) 
 A: We have a list of mining pools below. It’s up to you on what pool you would like to mine on. (We do not have any recommended pool.)
 
 
-Mining Pool List:
+**Mining Pool List:**
 
-EU POOLS:
+* **EU POOLS:**
 
-http://yiimp.poolofd32th.club/ - ACTIVE
+http://yiimp.poolofd32th.club/
 
-http://bsod.pw/ - ACTIVE
+http://bsod.pw/
 
-https://mining-dutch.nl/ - ACTIVE
+https://mining-dutch.nl/
 
-https://www.omegapool.cc/ - ACTIVE
+https://www.omegapool.cc/
 
-https://umine.org/ - ACTIVE
+https://umine.org/
 
-http://antminepool.com/ - ACTIVE
+http://antminepool.com/ 
 
-https://fairmine.pro/ - ACTIVE
+https://fairmine.pro/ 
 
-https://www.lycheebit.com/ - ACTIVE
+https://www.lycheebit.com/ 
 
-http://zergpool.com/ - ACTIVE
+http://zergpool.com/
 
-https://www.unimining.net/ - ACTIVE
+https://www.unimining.net/ 
 
-http://poolovich.pro/ - ACTIVE
+http://poolovich.pro/ 
 
-https://cvmpool.pw/ - ACTIVE
+https://cvmpool.pw/ 
 
-https://ourpool.net/ - ACTIVE
+https://ourpool.net/ 
 
-http://clutzykid.com/ - ACTIVE
+http://clutzykid.com/ 
 
-US POOLS:
+* **US POOLS:**
 
-https://pool.masterhash.us/ - ACTIVE
+https://pool.masterhash.us/ 
 
-https://poolr.io/ - ACTIVE
+https://poolr.io/ 
 
-https://cryptopool.party/ - ACTIVE
+https://cryptopool.party/ 
 
-http://bsod.pw/ - ACTIVE
+http://bsod.pw/ 
 
-https://pool.coin-miners.info/ - ACTIVE
+https://pool.coin-miners.info/ 
 
-https://titan-mining.net/ - ACTIVE
+https://titan-mining.net/ 
 
 
-ASIA POOLS:
+* **ASIA POOLS:**
 
-https://asiapool.trade/ - ACTIVE
+https://asiapool.trade/ 
 
-http://bsod.pw/ - ACTIVE
+http://bsod.pw/ 
