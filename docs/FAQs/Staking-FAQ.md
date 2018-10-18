@@ -16,15 +16,15 @@ A: Yes, it needs to be fully on and awake in order to be staking. Turning it off
 
 ##### Q: Do I need to put anything in my Bulwark.conf to enable staking?
 
-A: No, the wallet has a "Enable Staking" button on the bottom, which you will need to press to enable staking.
+A: No, you will only have to unlock your wallet in order to enable staking.
 
 ##### Q: How much Bulwark do I need to stake?
 
-A: There is technically no minimum amount needed to stake, however the more you have in one input, the more consistently that input will receive a staking reward.
+A: You will need to have atleast 100 BWK per input in order to stake.
 
 ##### Q: How long do coins have to mature before they can be staked?
 
-A: To be eligible for staking, coins must have 67 confirmations, which takes roughly 100 minutes. Also, the transaction that sent them must be older than 60 minutes.
+A: To be eligible for staking, coins must have 475 confirmations, which takes roughly 12 Hours.
 
 ##### Q: What amount of Bulwark do I need to receive a stake reward every day?
 
